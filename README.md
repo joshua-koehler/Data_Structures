@@ -1,5 +1,5 @@
 # Data Structures - Implemented in C
-\
+
 # Structures so far
 Dynamic Array - dynamicArray.c\
 Queue - two different implementations\
