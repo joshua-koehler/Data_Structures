@@ -6,7 +6,7 @@ Queue - two different implementations\
     - with a linked list - linked.c\
     - with a circular array - circular.c\
 Hash Table - Chaining_Hash_Table\
-		- implemented with chaining\
+		- implemented with chaining
 
 Extra:
 	- dynamic programming problem solutions included under folder "dynamic"\
