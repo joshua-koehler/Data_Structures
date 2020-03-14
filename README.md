@@ -8,12 +8,12 @@ Queue - two different implementations\
 Hash Table - Chaining_Hash_Table\
 		- implemented with chaining
 Trie Dictionary - stores words
-Sorts
-	- quick sort
-	- merge sort
-	- radix sort
-	- selection sort
-	- insertion sort
+Sorts\
+	- quick sort\
+	- merge sort\
+	- radix sort\
+	- selection sort\
+	- insertion sort\
 
 Extra:
 	- dynamic programming problem solutions included under folder "dynamic"
