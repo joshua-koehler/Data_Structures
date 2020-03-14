@@ -13,7 +13,7 @@ Sorts\
 	- merge sort\
 	- radix sort\
 	- selection sort\
-	- insertion sort\
+	- insertion sort
 
 Extra:
 	- dynamic programming problem solutions included under folder "dynamic"
