@@ -12,11 +12,14 @@ Hash Table - Chaining_Hash_Table\
 
 Trie Dictionary - stores words
 
+Binary Max Heap
+
 Sorts\
 	- quick sort\
 	- merge sort\
 	- radix sort\
 	- selection sort\
+	- heap sort (under heap directory)\
 	- insertion sort
 
 Extra:\
