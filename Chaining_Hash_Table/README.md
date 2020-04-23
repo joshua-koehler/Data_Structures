@@ -11,8 +11,8 @@ Program can be run in two ways:
 
 else return an ERROR MESSAGE
 
-Data is processed from the database one line at a time:
-\SQL-101 Johann Müller\
+Data is processed from the database one line at a time:\
+SQL-101 Johann Müller\
 QJF-436 Jurgen Heck\
 .
 .
