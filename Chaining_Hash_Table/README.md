@@ -20,18 +20,18 @@ QJF-436 Jurgen Heck\
 etc.
 
 USER COMMANDS:
-*LOAD //displays number of plates in each cell of the hash table
-*DUMP //Display contents of each cell of the hash table
-*DUMP n //where n is an integer, display contents of cell n
+*LOAD //displays number of plates in each cell of the hash table\
+*DUMP //Display contents of each cell of the hash table\
+*DUMP n //where n is an integer, display contents of cell n\
 
 user exits with CTRL+D //EOF
 
-Linked List:
-struct node{
-	char* plate;
-	char* first;
-	char* list;
-	struct node* next;
+Linked List:\
+struct node{\
+	char* plate;\
+	char* first;\
+	char* list;\
+	struct node* next;\
 };
 
 
